@@ -30,14 +30,4 @@
    JK     : Laki - Laki<br>
    Agama  : Islam<br>
    TTL    : Ambon, 19 Agustus 2003<br>
-   Alamat : Jln. Jakarta RT.14 No.33<br><br>
-
-6. Nama   : rafli<br>
-   NIM    : H2020000006<br>
-   JK     : Laki - Laki<br>
-   Agama  : Islam<br>
-   TTL    : Kendari, 11 September 2003<br>
-   Alamat : Jln. Simbo Kec. Baruga<br><br>
-
-   
-   
+   Alamat : Jln. Jakarta RT.14 No.33<br>
