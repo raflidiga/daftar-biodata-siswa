@@ -9,22 +9,22 @@
    NIM    : H202000006<br>
    Agama  : Islam<br>
    TTL    : Samarinda, 02 Juni 2003<br>
-   Alamat : Jln. Bantuas RT.01 No.18<br>
- <ber>
+   Alamat : Jln. Bantuas RT.01 No.18<br><br>
+ 
 3. Nama   : Indah Istiqomah<br>
    NIM    : H2020000003<br>
    JK     : Perempuan<br>
    Agama  : Islam<br>
    TTL    : Samarinda, 22 Desember 2002<br>
-   Alamat : Jln. Keledang RT.13 No.26<br>
- <ber>
+   Alamat : Jln. Keledang RT.13 No.26<br> <br>
+
 4. Nama   : Ilham ILyas<br>
    NIM    : H2020000004<br>
    JK     : Laki - Laki<br>
    Agama  : Islam<br>
    TTL    : Pinrang, 10 Maret 2003<br>
-   Alamat : Jln. Mangkupalas RT.07 No.12<br>
- <ber>
+   Alamat : Jln. Mangkupalas RT.07 No.12<br> <br>
+
 5. Nama   : Rifqi Permana<br>
    NIM    : H2020000005<br>
    JK     : Laki - Laki<br>
